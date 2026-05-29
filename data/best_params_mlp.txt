@@ -1,0 +1,10 @@
+{
+    "activation": "logistic",
+    "alpha": 0.01,
+    "batch_size": 32,
+    "hidden_layer_sizes": [
+        256,
+        64
+    ],
+    "solver": "adam"
+}

@@ -1,0 +1,1 @@
+{"batch_size": "32", "dropout": "0.5", "hidden_size": "32", "lr": "0.001", "normalization": "z_score", "num_layers": "1", "optimizer": "<class 'torch.optim.adam.Adam'>"}
